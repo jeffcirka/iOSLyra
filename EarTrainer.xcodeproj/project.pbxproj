@@ -19,6 +19,7 @@
 		489C9CBA18D16DBA005D8AF5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 489C9CA218D16DBA005D8AF5 /* UIKit.framework */; };
 		489C9CC218D16DBA005D8AF5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 489C9CC018D16DBA005D8AF5 /* InfoPlist.strings */; };
 		489C9CC418D16DBA005D8AF5 /* EarTrainerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 489C9CC318D16DBA005D8AF5 /* EarTrainerTests.m */; };
+		489C9CCE18D17271005D8AF5 /* Nickname.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 489C9CCD18D17271005D8AF5 /* Nickname.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		489C9CBF18D16DBA005D8AF5 /* EarTrainerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EarTrainerTests-Info.plist"; sourceTree = "<group>"; };
 		489C9CC118D16DBA005D8AF5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		489C9CC318D16DBA005D8AF5 /* EarTrainerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EarTrainerTests.m; sourceTree = "<group>"; };
+		489C9CCD18D17271005D8AF5 /* Nickname.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Nickname.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				489C9CA618D16DBA005D8AF5 /* EarTrainer-Info.plist */,
 				489C9CA718D16DBA005D8AF5 /* InfoPlist.strings */,
 				489C9CAA18D16DBA005D8AF5 /* main.m */,
+				489C9CCD18D17271005D8AF5 /* Nickname.storyboard */,
 				489C9CAC18D16DBA005D8AF5 /* EarTrainer-Prefix.pch */,
 			);
 			name = "Supporting Files";
@@ -221,6 +224,7 @@
 			files = (
 				489C9CA918D16DBA005D8AF5 /* InfoPlist.strings in Resources */,
 				489C9CB118D16DBA005D8AF5 /* Images.xcassets in Resources */,
+				489C9CCE18D17271005D8AF5 /* Nickname.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
